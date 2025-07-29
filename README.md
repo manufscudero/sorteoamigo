@@ -34,18 +34,15 @@ Una aplicación web interactiva para organizar sorteos de amigo secreto de maner
 ## 🚀 Cómo usar
 
 ### 1. Agregar amigos
-![Paso 1](assets/paso-1.gif)
 - Escribe el nombre de un amigo en el campo de texto
 - Haz clic en "Añadir" o presiona Enter
 - El nombre aparecerá en la lista debajo
 
 ### 2. Gestionar la lista
-![Paso 2](assets/paso-2.gif)
 - Para eliminar un amigo, haz clic en el botón "×" junto a su nombre
 - Puedes agregar tantos amigos como desees
 
 ### 3. Realizar el sorteo
-![Paso 3](assets/paso-3.gif)
 - Una vez que tengas al menos un amigo en la lista
 - Haz clic en "Sortear amigo"
 - El resultado aparecerá con una animación especial
@@ -100,21 +97,6 @@ amigo-secreto/
 - **Responsive design**: Adaptable a diferentes tamaños de pantalla
 - **Estados visuales**: Feedback visual para acciones del usuario
 
-## 📱 Responsive Design
-
-<div align="center">
-  <img src="assets/desktop-view.png" alt="Vista Desktop" width="45%">
-  <img src="assets/mobile-view.png" alt="Vista Mobile" width="45%">
-</div>
-
-La aplicación se adapta perfectamente a cualquier dispositivo, desde móviles hasta pantallas de escritorio.
-
-- ✅ Chrome 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
-- ✅ Opera 47+
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Para contribuir:
@@ -131,12 +113,10 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 👨‍💻 Autor
 
-Desarrollado como proyecto de práctica de JavaScript vanilla.
+Desarrollado por Enmanuel Franco Escudero
 
 ## 🐛 Reportar problemas
 
 Si encuentras algún error o tienes sugerencias, por favor abre un [issue](../../issues) en este repositorio.
 
 ---
-
-¡Disfruta organizando tus intercambios de amigo secreto! 🎉
