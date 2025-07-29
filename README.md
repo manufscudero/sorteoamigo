@@ -1,7 +1,3 @@
-git add assets/
-git commit -m "Add screenshots and demo images"
-git push origin main
-
 
 # 🎁 Amigo Secreto
 
