@@ -1,36 +1,55 @@
-# Amigo Secreto
+# 🎁 Amigo Secreto
 
 Una aplicación web interactiva para organizar sorteos de amigo secreto de manera fácil y divertida.
+## 🖼️ Capturas de pantalla
 
-## Descripción
+![Amigo Secreto Demo](assets/demo-screenshot.jpeg)
+
+### Interfaz principal
+![Interfaz Principal](assets/interfaz-principal.jpeg)
+
+### Resultado del sorteo
+![Resultado del Sorteo](assets/resultado-sorteo.jpeg)
+
+## 📋 Descripción
 
 **Amigo Secreto** es una aplicación que permite a los usuarios crear una lista de amigos y realizar un sorteo aleatorio para determinar quién será el "amigo secreto". Perfecta para organizar intercambios de regalos en fiestas, oficinas, familia o cualquier grupo de amigos.
 
-## Características
+## ✨ Características
 
 ### Funcionalidades Principales
--  **Agregar amigos**: Ingresa nombres mediante un campo de texto
--  ** Visualizar lista**: Los nombres se muestran en una lista organizada
--  **Sorteo aleatorio**: Selección aleatoria del amigo secreto
--  **Validación de entrada**: Previene campos vacíos y nombres duplicados
+- ➕ **Agregar amigos**: Ingresa nombres mediante un campo de texto
+- 👁️ **Visualizar lista**: Los nombres se muestran en una lista organizada
+- 🎲 **Sorteo aleatorio**: Selección aleatoria del amigo secreto
+- ✏️ **Validación de entrada**: Previene campos vacíos y nombres duplicados
 
-##  Cómo usar
+### Funcionalidades Adicionales
+- 🗑️ **Eliminar amigos**: Botón individual para quitar nombres de la lista
+- ⌨️ **Soporte de teclado**: Presiona Enter para agregar amigos rápidamente
+- 🎨 **Interfaz atractiva**: Diseño moderno con animaciones suaves
+- 📱 **Responsive**: Adaptado para dispositivos móviles y desktop
+- ♿ **Accesibilidad**: Implementa buenas prácticas de accesibilidad web
 
-1. **Agregar amigos**: 
-   - Escribe el nombre de un amigo en el campo de texto
-   - Haz clic en "Añadir" o presiona Enter
-   - El nombre aparecerá en la lista debajo
+## 🚀 Cómo usar
 
-2. **Gestionar la lista**:
-   - Para eliminar un amigo, haz clic en el botón "×" junto a su nombre
-   - Puedes agregar tantos amigos como desees
+### 1. Agregar amigos
+![Paso 1](assets/paso-1.gif)
+- Escribe el nombre de un amigo en el campo de texto
+- Haz clic en "Añadir" o presiona Enter
+- El nombre aparecerá en la lista debajo
 
-3. **Realizar el sorteo**:
-   - Una vez que tengas al menos un amigo en la lista
-   - Haz clic en "Sortear amigo"
-   - El resultado aparecerá con una animación especial
+### 2. Gestionar la lista
+![Paso 2](assets/paso-2.gif)
+- Para eliminar un amigo, haz clic en el botón "×" junto a su nombre
+- Puedes agregar tantos amigos como desees
 
-## Instalación
+### 3. Realizar el sorteo
+![Paso 3](assets/paso-3.gif)
+- Una vez que tengas al menos un amigo en la lista
+- Haz clic en "Sortear amigo"
+- El resultado aparecerá con una animación especial
+
+## 🛠️ Instalación
 
 ### Requisitos
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
@@ -52,7 +71,7 @@ amigo-secreto/
 3. Abre `index.html` en tu navegador web
 4. ¡Listo para usar!
 
-## Estructura del proyecto
+## 📁 Estructura del proyecto
 
 ```
 ├── index.html          # Estructura HTML principal
@@ -64,7 +83,7 @@ amigo-secreto/
 └── README.md           # Documentación del proyecto
 ```
 
-## Funciones JavaScript principales
+## 🎯 Funciones JavaScript principales
 
 - `agregarAmigo()`: Agrega un nuevo amigo a la lista
 - `sortearAmigo()`: Realiza el sorteo aleatorio
@@ -72,7 +91,7 @@ amigo-secreto/
 - `actualizarListaAmigos()`: Actualiza la visualización de la lista
 - `mostrarResultado(amigo)`: Muestra el resultado del sorteo
 
-## Características de diseño
+## 🎨 Características de diseño
 
 - **Gradientes modernos**: Colores vibrantes y atractivos
 - **Animaciones suaves**: Efectos de transición para mejor UX
@@ -80,11 +99,43 @@ amigo-secreto/
 - **Responsive design**: Adaptable a diferentes tamaños de pantalla
 - **Estados visuales**: Feedback visual para acciones del usuario
 
-## Autor
+## 📱 Responsive Design
 
-Enmanuel Franco Escudero
+<div align="center">
+  <img src="assets/desktop-view.png" alt="Vista Desktop" width="45%">
+  <img src="assets/mobile-view.png" alt="Vista Mobile" width="45%">
+</div>
 
-## Reportar problemas
+La aplicación se adapta perfectamente a cualquier dispositivo, desde móviles hasta pantallas de escritorio.
+
+- ✅ Chrome 60+
+- ✅ Firefox 55+
+- ✅ Safari 12+
+- ✅ Edge 79+
+- ✅ Opera 47+
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Para contribuir:
+
+1. Haz fork del proyecto
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
+
+## 👨‍💻 Autor
+
+Desarrollado como proyecto de práctica de JavaScript vanilla.
+
+## 🐛 Reportar problemas
 
 Si encuentras algún error o tienes sugerencias, por favor abre un [issue](../../issues) en este repositorio.
 
+---
+
+¡Disfruta organizando tus intercambios de amigo secreto! 🎉
