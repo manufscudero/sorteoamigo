@@ -3,13 +3,13 @@
 Una aplicación web interactiva para organizar sorteos de amigo secreto de manera fácil y divertida.
 ## 🖼️ Capturas de pantalla
 
-![Amigo Secreto Demo](assets/demo-screenshot.jpeg)
+![Amigo Secreto Demo](assets/demo-screenshot.png)
 
 ### Interfaz principal
-![Interfaz Principal](assets/interfaz-principal.jpeg)
+![Interfaz Principal](assets/interfaz-principal.png)
 
 ### Resultado del sorteo
-![Resultado del Sorteo](assets/resultado-sorteo.jpeg)
+![Resultado del Sorteo](assets/resultado-sorteo.png)
 
 ## 📋 Descripción
 
