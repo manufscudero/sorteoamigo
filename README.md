@@ -1,3 +1,8 @@
+git add assets/
+git commit -m "Add screenshots and demo images"
+git push origin main
+
+
 # 🎁 Amigo Secreto
 
 Una aplicación web interactiva para organizar sorteos de amigo secreto de manera fácil y divertida.
