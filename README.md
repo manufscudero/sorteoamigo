@@ -1,20 +1,20 @@
-# 🎁 Amigo Secreto
+# Amigo Secreto
 
 Una aplicación web interactiva para organizar sorteos de amigo secreto de manera fácil y divertida.
 
-## 📋 Descripción
+## Descripción
 
 **Amigo Secreto** es una aplicación que permite a los usuarios crear una lista de amigos y realizar un sorteo aleatorio para determinar quién será el "amigo secreto". Perfecta para organizar intercambios de regalos en fiestas, oficinas, familia o cualquier grupo de amigos.
 
-## ✨ Características
+## Características
 
 ### Funcionalidades Principales
-- ➕ **Agregar amigos**: Ingresa nombres mediante un campo de texto
-- 👁️ **Visualizar lista**: Los nombres se muestran en una lista organizada
-- 🎲 **Sorteo aleatorio**: Selección aleatoria del amigo secreto
-- ✏️ **Validación de entrada**: Previene campos vacíos y nombres duplicados
+-  **Agregar amigos**: Ingresa nombres mediante un campo de texto
+-  ** Visualizar lista**: Los nombres se muestran en una lista organizada
+-  **Sorteo aleatorio**: Selección aleatoria del amigo secreto
+-  **Validación de entrada**: Previene campos vacíos y nombres duplicados
 
-## 🚀 Cómo usar
+##  Cómo usar
 
 1. **Agregar amigos**: 
    - Escribe el nombre de un amigo en el campo de texto
@@ -30,7 +30,7 @@ Una aplicación web interactiva para organizar sorteos de amigo secreto de maner
    - Haz clic en "Sortear amigo"
    - El resultado aparecerá con una animación especial
 
-## 🛠️ Instalación
+## Instalación
 
 ### Requisitos
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
@@ -52,7 +52,7 @@ amigo-secreto/
 3. Abre `index.html` en tu navegador web
 4. ¡Listo para usar!
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 ├── index.html          # Estructura HTML principal
@@ -64,7 +64,7 @@ amigo-secreto/
 └── README.md           # Documentación del proyecto
 ```
 
-## 🎯 Funciones JavaScript principales
+## Funciones JavaScript principales
 
 - `agregarAmigo()`: Agrega un nuevo amigo a la lista
 - `sortearAmigo()`: Realiza el sorteo aleatorio
@@ -72,7 +72,7 @@ amigo-secreto/
 - `actualizarListaAmigos()`: Actualiza la visualización de la lista
 - `mostrarResultado(amigo)`: Muestra el resultado del sorteo
 
-## 🎨 Características de diseño
+## Características de diseño
 
 - **Gradientes modernos**: Colores vibrantes y atractivos
 - **Animaciones suaves**: Efectos de transición para mejor UX
@@ -80,14 +80,11 @@ amigo-secreto/
 - **Responsive design**: Adaptable a diferentes tamaños de pantalla
 - **Estados visuales**: Feedback visual para acciones del usuario
 
-## 👨‍💻 Autor
+## Autor
 
 Enmanuel Franco Escudero
 
-## 🐛 Reportar problemas
+## Reportar problemas
 
 Si encuentras algún error o tienes sugerencias, por favor abre un [issue](../../issues) en este repositorio.
 
----
-
-¡Disfruta organizando tus intercambios de amigo secreto! 🎉
