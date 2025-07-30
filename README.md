@@ -113,10 +113,8 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 👨‍💻 Autor
 
-Desarrollado por Enmanuel Franco Escudero
+Desarrollado por Enmanuel Franco Escudero.
 
 ## 🐛 Reportar problemas
 
 Si encuentras algún error o tienes sugerencias, por favor abre un [issue](../../issues) en este repositorio.
-
----
