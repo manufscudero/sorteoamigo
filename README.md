@@ -117,6 +117,5 @@ Desarrollado por Enmanuel Franco Escudero.
 
 ## 🐛 Reportar problemas
 
-PRUEBA
 
 Si encuentras algún error o tienes sugerencias, por favor abre un [issue](../../issues) en este repositorio.
